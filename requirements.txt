@@ -1,0 +1,5 @@
+spacy
+gensim
+tqdm
+sklearn
+pandas
